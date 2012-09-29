@@ -6,3 +6,10 @@ wowo
 HELLO
 yep
 MY_FRIEND
+Alert("test");
+this 
+raise "Here"
+Hello
+console.log("test");
+test
+console.log("I hope to delete this in the future");
